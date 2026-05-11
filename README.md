@@ -40,10 +40,10 @@ Determinar qué factores están asociados al **churn** (abandono del servicio) d
 
 | Variable | Prueba | Resultado | ¿Influye en el churn? |
 |---|---|---|---|
-| `city` | Chi² | p = 0.626 | No significativa |
-| `employment_status` | Chi² | p > 0.05 |  No significativa |
-| `call_minutes` | Cohen's d | d = 0.096 (efecto mínimo) |  No relevante |
-| `customer_feedback` | Chi² | p > 0.05 |  No significativa |
+| `city` | Chi² | p = 0.999 | No significativa |
+| `employment_status` | Chi² | p = 0.981 |  No significativa |
+| `call_minutes` | Cohen's d | d = 0.0961 (efecto mínimo) |  No relevante |
+| `customer_feedback` | Chi² | p =  0.625 |  No significativa |
 | `monthly_income` | Boxplot + medias | Diferencia leve |  Indicio débil |
 | `contract_type` | Chi² | p = 1.55e-27 |  **Muy significativa** |
 
