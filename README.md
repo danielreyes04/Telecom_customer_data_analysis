@@ -1,16 +1,16 @@
-# 📡 Telecom Customer Churn — Análisis Exploratorio
+# Telecom Customer Churn — Análisis Exploratorio
 
 Análisis exploratorio de datos para identificar qué variables influyen en que un cliente abandone el servicio de una empresa de telecomunicaciones.
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Determinar qué factores están asociados al **churn** (abandono del servicio) de clientes, usando pruebas estadísticas y visualizaciones que permitan priorizar variables para modelos predictivos o estrategias de retención.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Archivo:** `telecom_customer_churn_feature_engineering.csv`  
 **Registros:** 1.200 clientes  
@@ -36,7 +36,7 @@ Determinar qué factores están asociados al **churn** (abandono del servicio) d
 
 ---
 
-## 📊 Resultados por variable
+## Resultados por variable
 
 | Variable | Prueba | Resultado | ¿Influye en el churn? |
 |---|---|---|---|
@@ -49,7 +49,7 @@ Determinar qué factores están asociados al **churn** (abandono del servicio) d
 
 ---
 
-## 💡 Hallazgo principal
+## Hallazgo principal
 
 > El **tipo de contrato** es la variable más influyente en el churn.
 
@@ -97,7 +97,7 @@ jupyter notebook Telecom_customer.ipynb
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Daniel Steven Reyes**  
 [GitHub](https://github.com/danielreyes04) 
